@@ -13,7 +13,7 @@ The manager checks this page for a newer version by itself and offers an upgrade
 
 ## Screenshots
 
-**The manager** - all server profiles as tabs, Task Status for Auto Backup / Auto Update (PVE and PVP), Server Monitor, Default and Light themes.
+**The manager** - all server profiles as tabs, Task Status for Auto Backup / Auto Update (PVE and PVP), Server Monitor, a Check for manager updates button, Default and Light themes.
 
 ![The manager](docs/screenshots/manager-main.png)
 
