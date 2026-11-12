@@ -9,6 +9,8 @@ Get the newest `ASAARKServerManager-Setup-Release.exe` from the
 [Releases](https://github.com/jamakenjelly/ASAARKServerManager/releases/latest) page and run it. It asks for an install folder and makes
 the shortcuts. Start the manager as administrator (the shortcut does this).
 
+The manager runs on .NET 8. It is included in the download and in the upgrade (about 68 MB), so there is nothing else to install.
+
 The manager checks this page for a newer version by itself and offers an upgrade button when there is one.
 
 ## Screenshots
